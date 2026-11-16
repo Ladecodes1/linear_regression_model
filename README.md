@@ -1,12 +1,13 @@
-# Teen Phone Addiction Prediction
+# Maize Yield Prediction for Smallholder Farmers
 
 ## Mission and problem
-My mission is to reorientate youth and children, to inspire them to embrace integrity, creativity, and a sense of purpose, helping to build a future generation that values honesty, innovation, and positive change.
-Problem: some teens develop unhealthy phone habits that affect their sleep, focus and growth.
-This project predicts a teen's phone addiction level from their daily habits, so parents, teachers and youth leaders can offer guidance early.
+My mission is to help smallholder farmers, especially young farmers, grow more food with less guesswork.
+Problem: maize yields vary widely between farms, and farmers rarely know which practices matter most.
+This project predicts maize yield (kg per hectare) from farm conditions and practices, so farmers and extension officers can plan better.
 
 ## Dataset
-(To be added: short description and source link.)
+The data is a real survey of smallholder maize fields in East and Southern Africa, collected by One Acre Fund between 2016 and 2022. It has 14,773 fields and 53 columns covering weather, soil, planting, seed type, fertiliser and pests, with the measured maize yield as the target.
+Source: "Maize management and yield of smallholder farmers in Sub-Saharan Africa between 2016 and 2022" (One Acre Fund), Zenodo: https://zenodo.org/doi/10.5281/zenodo.11115815
 
 ## Swagger UI (public API link)
 (To be added after deployment on Render.)
