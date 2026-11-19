@@ -11,7 +11,7 @@ Source: "Maize management and yield of smallholder farmers in Sub-Saharan Africa
 License: Creative Commons Attribution 4.0 International (CC BY 4.0). Credit: One Acre Fund.
 
 ## Swagger UI (public API link)
-(To be added after deployment on Render.)
+https://maize-yield-api-93ln.onrender.com/docs
 
 ## YouTube video demo
 (To be added.)

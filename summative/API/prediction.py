@@ -48,7 +48,7 @@ app.add_middleware(
         "http://localhost:8000",
         "http://127.0.0.1:8000",
         "http://localhost:5000",
-        "https://YOUR-SERVICE-NAME.onrender.com",
+        "https://maize-yield-api-93ln.onrender.com",
     ],
     allow_methods=["GET", "POST"],
     allow_headers=["Content-Type", "Accept"],
