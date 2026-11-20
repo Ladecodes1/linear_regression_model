@@ -13,8 +13,22 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0). Credit: One
 ## Swagger UI (public API link)
 https://maize-yield-api-93ln.onrender.com/docs
 
-## YouTube video demo
-(To be added.)
+## Mobile app (Flutter)
 
-## How to run the mobile app
-(To be added.)
+Requirements: Flutter SDK, and an Android emulator or phone.
+
+1. Clone the repo and go to the app folder:
+   cd linear_regression_model/summative/FlutterApp
+2. Install packages:
+   flutter pub get
+3. Start an Android emulator or plug in a phone, then check it appears:
+   flutter devices
+4. Run the app:
+   flutter run -d <device-id>
+
+The app calls the public API at https://maize-yield-api-93ln.onrender.com/predict.
+The first request can take up to a minute while the free server wakes up.
+
+## Demo video
+
+YouTube link: (to be added)
