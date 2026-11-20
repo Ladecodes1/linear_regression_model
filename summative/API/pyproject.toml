@@ -1,0 +1,14 @@
+[project]
+name = "maize-yield-api"
+version = "0.1.0"
+description = "FastAPI service that predicts maize yield for smallholder farms"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.162.5",
+    "joblib>=1.6.0",
+    "pandas>=2.3.3",
+    "pydantic>=2.14.3",
+    "python-multipart>=0.0.32",
+    "scikit-learn==1.6.1",
+    "uvicorn>=0.54.0",
+]
