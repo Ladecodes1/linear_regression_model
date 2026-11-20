@@ -15,6 +15,9 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0). Credit: One
 ## Swagger UI (public API link)
 https://maize-yield-api-93ln.onrender.com/docs
 
+## Demo video
+YouTube link: (to be added)
+
 ## Mobile app (Flutter)
 
 Requirements: Flutter SDK, and an Android emulator or phone.
@@ -51,7 +54,3 @@ Example input to test the app:
 | Nitrogen (kg per hectare) | 0 |
 | Phosphorus (kg per hectare) | 0 |
 | Season rainfall (mm) | 620.8 |
-
-## Demo video
-
-YouTube link: (to be added)
