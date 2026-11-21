@@ -16,7 +16,7 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0). Credit: One
 https://maize-yield-api-93ln.onrender.com/docs
 
 ## Demo video
-YouTube link: (to be added)
+https://youtu.be/oYRqLTaedTo
 
 ## Mobile app (Flutter)
 
